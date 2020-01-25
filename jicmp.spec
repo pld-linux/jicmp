@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.java
 
 Summary:	Java interface to the ICMP protocol
 Summary(pl.UTF-8):	Iterfejs Javy do protokołu ICMP
